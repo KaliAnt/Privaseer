@@ -1,0 +1,97 @@
+[  INFO   ] - 2018-05-27 19:03:16 - test
+[  INFO   ] - 2018-05-27 19:03:25 - Found 1 faces!
+[  DEBUG  ] - 2018-05-27 19:03:25 - Confidence: 54.4022279204
+[  INFO   ] - 2018-05-27 19:03:33 - Found 1 faces!
+[  DEBUG  ] - 2018-05-27 19:03:33 - Confidence: 52.5900587289
+[  INFO   ] - 2018-05-27 19:03:42 - Found 1 faces!
+[  DEBUG  ] - 2018-05-27 19:03:42 - Confidence: 52.1307833733
+[  INFO   ] - 2018-05-27 19:03:50 - Found 1 faces!
+[  DEBUG  ] - 2018-05-27 19:03:50 - Confidence: 51.8669276338
+[  INFO   ] - 2018-05-27 19:04:12 - test
+[  INFO   ] - 2018-05-27 19:04:21 - Found 1 faces!
+[  DEBUG  ] - 2018-05-27 19:04:21 - Confidence: 52.5649089195
+[  INFO   ] - 2018-05-27 19:04:28 - Found 1 faces!
+[  DEBUG  ] - 2018-05-27 19:04:28 - Confidence: 47.8764774998
+[  INFO   ] - 2018-05-27 19:04:34 - Found 1 faces!
+[  DEBUG  ] - 2018-05-27 19:04:34 - Confidence: 48.3251922264
+[  INFO   ] - 2018-05-27 19:14:28 - Found 0 faces!
+[  INFO   ] - 2018-05-27 19:14:54 - Found 1 faces!
+[  DEBUG  ] - 2018-05-27 19:14:54 - Confidence: 44.0074367416
+[  INFO   ] - 2018-05-27 19:14:54 - No match!
+[  INFO   ] - 2018-05-29 00:57:35 - Found 1 faces!
+[  DEBUG  ] - 2018-05-29 00:57:35 - Confidence: 32.8700189244
+[  INFO   ] - 2018-05-29 00:58:55 - Found 0 faces!
+[  INFO   ] - 2018-05-29 00:59:59 - Found 1 faces!
+[  DEBUG  ] - 2018-05-29 00:59:59 - Confidence: 32.803733032
+[  INFO   ] - 2018-05-29 00:59:59 - Matching!
+[  INFO   ] - 2018-05-29 01:00:32 - Found 1 faces!
+[  DEBUG  ] - 2018-05-29 01:00:32 - Confidence: 33.2199006557
+[  INFO   ] - 2018-05-29 01:00:32 - Matching!
+[  INFO   ] - 2018-05-29 01:03:51 - Found 1 faces!
+[  DEBUG  ] - 2018-05-29 01:03:51 - Confidence: 37.5721945536
+[  INFO   ] - 2018-05-29 01:03:51 - Matching!
+[  INFO   ] - 2018-05-29 01:11:38 - Found 1 faces!
+[  DEBUG  ] - 2018-05-29 01:11:38 - Confidence: 33.4521333262
+[  INFO   ] - 2018-05-29 01:11:38 - Matching!
+[  INFO   ] - 2018-05-29 01:12:37 - Found 1 faces!
+[  DEBUG  ] - 2018-05-29 01:12:37 - Confidence: 36.5917253981
+[  INFO   ] - 2018-05-29 01:12:37 - Matching!
+[  INFO   ] - 2018-05-29 01:13:23 - Found 0 faces!
+[  INFO   ] - 2018-05-29 01:14:03 - Found 1 faces!
+[  DEBUG  ] - 2018-05-29 01:14:03 - Confidence: 36.0423893758
+[  INFO   ] - 2018-05-29 01:14:03 - Matching!
+[  INFO   ] - 2018-05-29 01:16:37 - Found 1 faces!
+[  DEBUG  ] - 2018-05-29 01:16:37 - Confidence: 33.2215967962
+[  INFO   ] - 2018-05-29 01:16:37 - Matching!
+[  INFO   ] - 2018-05-29 01:18:13 - Found 1 faces!
+[  DEBUG  ] - 2018-05-29 01:18:13 - Confidence: 40.4426652209
+[  INFO   ] - 2018-05-29 01:18:13 - Matching!
+[  INFO   ] - 2018-05-29 01:19:32 - Found 1 faces!
+[  DEBUG  ] - 2018-05-29 01:19:32 - Confidence: 39.0995492856
+[  INFO   ] - 2018-05-29 01:19:32 - Matching!
+[  INFO   ] - 2018-05-29 01:20:30 - Found 1 faces!
+[  DEBUG  ] - 2018-05-29 01:20:30 - Confidence: 34.8302541002
+[  INFO   ] - 2018-05-29 01:20:30 - Matching!
+[  INFO   ] - 2018-05-29 01:21:36 - Found 1 faces!
+[  DEBUG  ] - 2018-05-29 01:21:36 - Confidence: 38.2143147612
+[  INFO   ] - 2018-05-29 01:21:36 - Matching!
+[  INFO   ] - 2018-05-29 01:22:46 - Found 1 faces!
+[  DEBUG  ] - 2018-05-29 01:22:46 - Confidence: 37.1236782159
+[  INFO   ] - 2018-05-29 01:22:46 - Matching!
+[  INFO   ] - 2018-05-29 01:25:20 - Found 1 faces!
+[  DEBUG  ] - 2018-05-29 01:25:20 - Confidence: 38.0852704593
+[  INFO   ] - 2018-05-29 01:25:20 - Matching!
+[  INFO   ] - 2018-05-29 01:26:11 - Found 1 faces!
+[  DEBUG  ] - 2018-05-29 01:26:11 - Confidence: 39.6719389934
+[  INFO   ] - 2018-05-29 01:26:11 - Matching!
+[  INFO   ] - 2018-05-29 01:30:52 - Found 1 faces!
+[  DEBUG  ] - 2018-05-29 01:30:52 - Confidence: 37.4211151196
+[  INFO   ] - 2018-05-29 01:30:52 - Matching!
+[  INFO   ] - 2018-05-29 01:32:22 - Found 1 faces!
+[  DEBUG  ] - 2018-05-29 01:32:23 - Confidence: 37.921762395
+[  INFO   ] - 2018-05-29 01:32:23 - Matching!
+[  INFO   ] - 2018-05-29 01:32:45 - Found 1 faces!
+[  DEBUG  ] - 2018-05-29 01:32:45 - Confidence: 37.1796403719
+[  INFO   ] - 2018-05-29 01:32:45 - Matching!
+[  INFO   ] - 2018-05-29 01:34:27 - Found 0 faces!
+[  INFO   ] - 2018-05-29 01:34:46 - Found 1 faces!
+[  DEBUG  ] - 2018-05-29 01:34:46 - Confidence: 38.4808513844
+[  INFO   ] - 2018-05-29 01:34:46 - Matching!
+[  INFO   ] - 2018-05-29 01:35:08 - Found 1 faces!
+[  DEBUG  ] - 2018-05-29 01:35:09 - Confidence: 33.6156621938
+[  INFO   ] - 2018-05-29 01:35:09 - Matching!
+[  INFO   ] - 2018-05-29 01:35:56 - Found 1 faces!
+[  DEBUG  ] - 2018-05-29 01:35:56 - Confidence: 32.9682221437
+[  INFO   ] - 2018-05-29 01:35:56 - Matching!
+[  INFO   ] - 2018-05-29 01:43:08 - Found 1 faces!
+[  DEBUG  ] - 2018-05-29 01:43:08 - Confidence: 36.9480549379
+[  INFO   ] - 2018-05-29 01:43:08 - Matching!
+[  INFO   ] - 2018-05-29 01:43:47 - Found 0 faces!
+[  INFO   ] - 2018-05-29 01:44:01 - Found 1 faces!
+[  DEBUG  ] - 2018-05-29 01:44:01 - Confidence: 34.5928397585
+[  INFO   ] - 2018-05-29 01:44:01 - Matching!
+[  INFO   ] - 2018-05-29 01:46:20 - Found 0 faces!
+[  INFO   ] - 2018-05-29 01:46:37 - Found 0 faces!
+[  INFO   ] - 2018-05-29 01:46:52 - Found 1 faces!
+[  DEBUG  ] - 2018-05-29 01:46:52 - Confidence: 40.6075237701
+[  INFO   ] - 2018-05-29 01:46:53 - Matching!
