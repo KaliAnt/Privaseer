@@ -26,18 +26,15 @@ while(True):
 
     if firstRun == 0:
     	lastTime = timeNow
-#
-        lastFrame = gray
         firstRun = 1
     else:
         sim = sim1(lastFrame, gray)
         if sim < 0.8:
             if timeNow - lastTime > 5:
                 cv.imwrite('../data/test/captured.jpg', gray)
-                rgz.read_data('../data/test/captured.jpg', 'test')
-    lastFrame = gray
+                rgz.read_data('../data/test/captured.jpg', 'test')   
     
-
+    lastFrame = gray
     cv.imshow('frame',gray)
 
         
