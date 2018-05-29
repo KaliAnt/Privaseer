@@ -71,7 +71,6 @@ def create_events():
 
 @app.route('/profiles', methods=['GET'])
 def get_profiles():
-<<<<<<< HEAD
 
     db = get_db()
 
@@ -93,21 +92,6 @@ def get_profiles():
             arr.append(profile.copy())
         
     usr = jsonify(arr)
-=======
-    #with open('../data/data-files/data.txt',"r") as f:
-    names = [{   'name' : 'Calina',
-                    'isInside' : 0,
-                    'lastSeen' : 'now' 
-        },
-        {   'name' : 'Emese',
-                    'isInside' : 1,
-                    'lastSeen' : 'now' 
-        }    
-    ]
-    
-    usr = jsonify(names)
-   #  print names
->>>>>>> a95b3676f2d5cf0f2cd3301bc86e5e4320b6e3d9
     return usr
 
 @app.route('/events', methods=['GET'])

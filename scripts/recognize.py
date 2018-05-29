@@ -24,7 +24,7 @@ def detect_face(img):
     l.log('Found {0} faces!'.format(len(faces)))
 
     if(len(faces) == 0):
-        exit(0)
+        return None, None
 
     (x, y, w, h) = faces[0]
     return gray[y:y+w, x:x+h], faces[0]
